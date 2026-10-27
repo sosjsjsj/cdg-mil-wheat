@@ -1,0 +1,8 @@
+# Python 3.13.9; PyTorch 2.10.0 with CUDA 12.8 (see README)
+torch==2.10.0
+scikit-learn==1.7.2
+numpy
+pandas
+scipy
+matplotlib
+Pillow
